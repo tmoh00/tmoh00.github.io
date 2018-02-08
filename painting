@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css" charset="utf-8">
+		<title>
+		Box Art
+		</title>
+	</head>
+	<body>
+		<div id="painting">
+			<div id="toprow">
+				<div id="bigbox"
+				 class= "red right">
+				</div>
+				<div id="divider1"
+				 class= "black right">
+				</div>
+				<div id="topleftcolumn"
+				 class= "right">
+					<div id="mediumbox"
+					 class= "orange">
+					</div>
+					<div id="divider2"
+				 	class= "black">
+					</div>
+					<div id= "mediumbox"
+					 class= "orange">
+					</div>
+					<div id="divider2"
+					 class= "black">
+					</div>
+				</div>
+			</div>
+			<div id="middlerow">
+				<div id="dividermiddle"
+				 class= "black">
+				</div>
+			</div>
+			<div id="bottomrow"
+			 class = "orange">
+				<div id="bottomrightcolumn"
+				 class= "right">
+					<div id="smallbox"
+					 class= "yellow right">
+					</div>
+					<div id="divider3"
+					 class= "black right">
+					</div>
+					<div id="smallbox"
+					 class= "yellow right">
+					</div>
+				</div>
+				<div id= "bottomrightdivide"
+				 class = "right">
+					<div id="dividersmall"
+					 class= "black right">
+					</div>
+				</div>
+				<div id="squarebox"
+				 class= "purple left">
+				</div>
+				<div id="dividersmall"
+				 class= "black left">
+				</div>
+			</div>
+		</div>	
+	</body>
